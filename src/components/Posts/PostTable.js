@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import PostList from "./PostList";
-import Data from "../../data.json";
 
 class PostTable extends Component {
     constructor(props) {
@@ -12,9 +11,13 @@ class PostTable extends Component {
     }
 
     componentDidMount() {
-
-        console.log("data: ", Data.hits);
+        this.timerID = setInterval(this.fetchData, 10000);
         this.fetchData();
+
+    }
+
+    componentWillUnmount() {
+        clearInterval(this.timerID);
     }
 
     fetchData = () => {
@@ -22,7 +25,10 @@ class PostTable extends Component {
             .then(res => res.json())
             .then(
                 (result) => {
-                    this.setState({dataSource: result.hits})
+                    let oldData = this.state.dataSource;
+                    let newData = [...oldData, ...result.hits];
+                    this.setState({dataSource: newData,
+                        pageNumber: this.state.pageNumber+1})
                 },
                 (error) => {console.log("error: ", error);}
             )
