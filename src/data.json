@@ -1,0 +1,773 @@
+{
+  "hits": [
+    {
+      "created_at": "2021-05-14T07:03:02.000Z",
+      "title": "Baseline implementations should be predictable",
+      "url": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/",
+      "author": "ingve",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975782,
+      "_tags": [
+        "story",
+        "author_ingve",
+        "story_27151570"
+      ],
+      "objectID": "27151570",
+      "_highlightResult": {
+        "title": {
+          "value": "Baseline implementations should be predictable",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ingve",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T07:02:46.000Z",
+      "title": "Are You Headless?",
+      "url": "https://arh.antoinevastel.com/bots/areyouheadless",
+      "author": "graderjs",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975766,
+      "_tags": [
+        "story",
+        "author_graderjs",
+        "story_27151567"
+      ],
+      "objectID": "27151567",
+      "_highlightResult": {
+        "title": {
+          "value": "Are You Headless?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://arh.antoinevastel.com/bots/areyouheadless",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "graderjs",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T07:02:30.000Z",
+      "title": "DST Root CA X3 Expiration (September 2021) – Let's Encrypt",
+      "url": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
+      "author": "edward",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975750,
+      "_tags": [
+        "story",
+        "author_edward",
+        "story_27151565"
+      ],
+      "objectID": "27151565",
+      "_highlightResult": {
+        "title": {
+          "value": "DST Root CA X3 Expiration (September 2021) – Let's Encrypt",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "edward",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T07:00:14.000Z",
+      "title": "My colleague made a Golang way to do 2D geometry Used across the US, Aust and NZ",
+      "url": "https://github.com/peterstace/simplefeatures",
+      "author": "Hewlberno",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975614,
+      "_tags": [
+        "story",
+        "author_Hewlberno",
+        "story_27151555"
+      ],
+      "objectID": "27151555",
+      "_highlightResult": {
+        "title": {
+          "value": "My colleague made a Golang way to do 2D geometry Used across the US, Aust and NZ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/peterstace/simplefeatures",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Hewlberno",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:59:46.000Z",
+      "title": "Makinilya - Blogging made easy",
+      "url": "https://makinilya.com",
+      "author": "carlsonorozco",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975586,
+      "_tags": [
+        "story",
+        "author_carlsonorozco",
+        "story_27151552"
+      ],
+      "objectID": "27151552",
+      "_highlightResult": {
+        "title": {
+          "value": "Makinilya - Blogging made easy",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://makinilya.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "carlsonorozco",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:58:45.000Z",
+      "title": "Desperate for workers, US restaurants and stores raise pay",
+      "url": "https://apnews.com/article/health-coronavirus-pandemic-business-5eb1432c117e217fea65bfaa138002e9",
+      "author": "batmaniam",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975525,
+      "_tags": [
+        "story",
+        "author_batmaniam",
+        "story_27151547"
+      ],
+      "objectID": "27151547",
+      "_highlightResult": {
+        "title": {
+          "value": "Desperate for workers, US restaurants and stores raise pay",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://apnews.com/article/health-coronavirus-pandemic-business-5eb1432c117e217fea65bfaa138002e9",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "batmaniam",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:58:06.000Z",
+      "title": "Wigner Distribution Function for Dummies",
+      "url": "https://soundshader.github.io/hss/gallery/wdf",
+      "author": "gbh444g",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975486,
+      "_tags": [
+        "story",
+        "author_gbh444g",
+        "story_27151544"
+      ],
+      "objectID": "27151544",
+      "_highlightResult": {
+        "title": {
+          "value": "Wigner Distribution Function for Dummies",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://soundshader.github.io/hss/gallery/wdf",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "gbh444g",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:54:32.000Z",
+      "title": "My Google search history: a frank interrogation",
+      "url": "https://www.trashberg.com/p/my-google-search-history-a-frank",
+      "author": "bryanrasmussen",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975272,
+      "_tags": [
+        "story",
+        "author_bryanrasmussen",
+        "story_27151524"
+      ],
+      "objectID": "27151524",
+      "_highlightResult": {
+        "title": {
+          "value": "My Google search history: a frank interrogation",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.trashberg.com/p/my-google-search-history-a-frank",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bryanrasmussen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:52:27.000Z",
+      "title": "AWS releases tool to open source that turns on-prem software into SaaS",
+      "url": "https://techcrunch.com/2021/05/12/aws-releases-tool-to-open-source-that-turns-on-prem-software-into-saas/",
+      "author": "mpweiher",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975147,
+      "_tags": [
+        "story",
+        "author_mpweiher",
+        "story_27151510"
+      ],
+      "objectID": "27151510",
+      "_highlightResult": {
+        "title": {
+          "value": "AWS releases tool to open source that turns on-prem software into SaaS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://techcrunch.com/2021/05/12/aws-releases-tool-to-open-source-that-turns-on-prem-software-into-saas/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mpweiher",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:50:31.000Z",
+      "title": "Paper Aeroplane Wind Tunnel",
+      "url": "http://jellyandmarshmallows.co.uk/blog/projects/paper-aeroplane-wind-tunnel/",
+      "author": "JNRowe",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620975031,
+      "_tags": [
+        "story",
+        "author_JNRowe",
+        "story_27151498"
+      ],
+      "objectID": "27151498",
+      "_highlightResult": {
+        "title": {
+          "value": "Paper Aeroplane Wind Tunnel",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://jellyandmarshmallows.co.uk/blog/projects/paper-aeroplane-wind-tunnel/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "JNRowe",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:49:37.000Z",
+      "title": "On Story Points",
+      "url": "https://riskfirst.org/estimating/On-Story-Points",
+      "author": "bobm_kite9",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974977,
+      "_tags": [
+        "story",
+        "author_bobm_kite9",
+        "story_27151493"
+      ],
+      "objectID": "27151493",
+      "_highlightResult": {
+        "title": {
+          "value": "On Story Points",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://riskfirst.org/estimating/On-Story-Points",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bobm_kite9",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:48:29.000Z",
+      "title": "Best Tips for Successful Email Marketing for Beginner in 2021",
+      "url": "https://docs.google.com/document/d/18_jDcXO3SmlASQ5d94klknK1a_aqPdcOyu0RQ1TeRl0/edit?usp=sharing",
+      "author": "Aliabadani",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974909,
+      "_tags": [
+        "story",
+        "author_Aliabadani",
+        "story_27151484"
+      ],
+      "objectID": "27151484",
+      "_highlightResult": {
+        "title": {
+          "value": "Best Tips for Successful Email Marketing for Beginner in 2021",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://docs.google.com/document/d/18_jDcXO3SmlASQ5d94klknK1a_aqPdcOyu0RQ1TeRl0/edit?usp=sharing",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Aliabadani",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:46:57.000Z",
+      "title": "Coffee Without Beans? A Startup Brews a New Cup of Joe",
+      "url": "https://www.bloomberg.com/news/articles/2021-05-12/coffee-without-beans-a-startup-brews-a-new-cup-of-joe",
+      "author": "XzetaU8",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974817,
+      "_tags": [
+        "story",
+        "author_XzetaU8",
+        "story_27151476"
+      ],
+      "objectID": "27151476",
+      "_highlightResult": {
+        "title": {
+          "value": "Coffee Without Beans? A Startup Brews a New Cup of Joe",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2021-05-12/coffee-without-beans-a-startup-brews-a-new-cup-of-joe",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "XzetaU8",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:45:41.000Z",
+      "title": "Forty Percent of Surveyed Faculty Say Harvard’s Standing in Higher Ed Has Fallen",
+      "url": "https://www.thecrimson.com/article/2021/4/13/faculty-say-harvard-standing-falling/",
+      "author": "throwkeep",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974741,
+      "_tags": [
+        "story",
+        "author_throwkeep",
+        "story_27151470"
+      ],
+      "objectID": "27151470",
+      "_highlightResult": {
+        "title": {
+          "value": "Forty Percent of Surveyed Faculty Say Harvard’s Standing in Higher Ed Has Fallen",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.thecrimson.com/article/2021/4/13/faculty-say-harvard-standing-falling/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "throwkeep",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:43:15.000Z",
+      "title": "How to make Python faster [pdf]",
+      "url": "https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf",
+      "author": "claudiug",
+      "points": 3,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974595,
+      "_tags": [
+        "story",
+        "author_claudiug",
+        "story_27151457"
+      ],
+      "objectID": "27151457",
+      "_highlightResult": {
+        "title": {
+          "value": "How to make Python faster [pdf]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "claudiug",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:40:27.000Z",
+      "title": "Japan and US take aim at China's 'developing' status on emissions",
+      "url": "https://asia.nikkei.com/Spotlight/Environment/Climate-Change/Japan-and-US-take-aim-at-China-s-developing-status-on-emissions",
+      "author": "punnerud",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974427,
+      "_tags": [
+        "story",
+        "author_punnerud",
+        "story_27151434"
+      ],
+      "objectID": "27151434",
+      "_highlightResult": {
+        "title": {
+          "value": "Japan and US take aim at China's 'developing' status on emissions",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://asia.nikkei.com/Spotlight/Environment/Climate-Change/Japan-and-US-take-aim-at-China-s-developing-status-on-emissions",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "punnerud",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:38:58.000Z",
+      "title": "Subnautica: Below Zero is out now",
+      "url": "https://unknownworlds.com/subnautica/subnautica-below-zero-is-out-now/",
+      "author": "zargon",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974338,
+      "_tags": [
+        "story",
+        "author_zargon",
+        "story_27151425"
+      ],
+      "objectID": "27151425",
+      "_highlightResult": {
+        "title": {
+          "value": "Subnautica: Below Zero is out now",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://unknownworlds.com/subnautica/subnautica-below-zero-is-out-now/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "zargon",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:38:43.000Z",
+      "title": "The Translation Trap",
+      "url": "https://www.thedriftmag.com/the-translation-trap/",
+      "author": "tintinnabula",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974323,
+      "_tags": [
+        "story",
+        "author_tintinnabula",
+        "story_27151422"
+      ],
+      "objectID": "27151422",
+      "_highlightResult": {
+        "title": {
+          "value": "The Translation Trap",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.thedriftmag.com/the-translation-trap/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tintinnabula",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:36:19.000Z",
+      "title": "A paradigm shift to combat indoor respiratory infection",
+      "url": "https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view",
+      "author": "edward",
+      "points": 9,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974179,
+      "_tags": [
+        "story",
+        "author_edward",
+        "story_27151407",
+        "front_page"
+      ],
+      "objectID": "27151407",
+      "_highlightResult": {
+        "title": {
+          "value": "A paradigm shift to combat indoor respiratory infection",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://drive.google.com/file/d/1_aMgbcDdvbUv5ehmhMeZ4NlVHzKxIMUC/view",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "edward",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2021-05-14T06:34:08.000Z",
+      "title": "Gujarat excess deaths 65,085 in 2021 Mar-May",
+      "url": "https://twitter.com/deepakpatel_91/status/1393070596741734405",
+      "author": "fdffff",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1620974048,
+      "_tags": [
+        "story",
+        "author_fdffff",
+        "story_27151395"
+      ],
+      "objectID": "27151395",
+      "_highlightResult": {
+        "title": {
+          "value": "Gujarat excess deaths 65,085 in 2021 Mar-May",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://twitter.com/deepakpatel_91/status/1393070596741734405",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "fdffff",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 1889582,
+  "page": 0,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "query": "",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026page=0\u0026tags=story",
+  "processingTimeMS": 1
+}
